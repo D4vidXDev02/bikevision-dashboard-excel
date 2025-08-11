@@ -42,7 +42,7 @@ Tablas Dinámicas → El alquimista que transforma datos brutos en oro
 
 ## 🚀 Experiencia en 3 Pasos
 
-1. **Descarga** el archivo `.xlsx` desde [este repositorio](https://github.com/D4vidXDev02/bikevision-dashboard-powerbi)
+1. **Descarga** el archivo `.xlsx` desde [este repositorio](https://github.com/D4vidXDev02/bikevision-dashboard-excel)
 2. **Abre** con Microsoft Excel 
 3. **Explora** usando los filtros por Business Type, State-Province, Subcategory y Country
 4. **Bonus**: Analiza las tendencias históricas para predecir el próximo boom
